@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03INT2-MJ03D-06-BOTPTA303-streamed-botpt_lily_sample
 data_stream: RS03INT2-MJ03D-06-BOTPTA303-streamed-botpt_lily_sample
-end_date: '2021-09-17T22:48:15.000Z'
-last_updated: '2021-09-18T01:18:54.745024Z'
+end_date: '2021-09-29T18:03:56.000Z'
+last_updated: '2021-09-29T20:32:18.476165Z'
 start_date: '2014-08-29T23:17:23.000Z'
 status: pending
